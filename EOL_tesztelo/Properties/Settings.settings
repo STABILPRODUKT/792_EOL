@@ -1,0 +1,162 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EOL_tesztelo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLDataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESKTOP-8FO0A37\EOL_TESTER</Value>
+    </Setting>
+    <Setting Name="SQLInitialCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EOL_792</Value>
+    </Setting>
+    <Setting Name="SQLUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="SQLPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ja61</Value>
+    </Setting>
+    <Setting Name="PLC_IP_1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">192</Value>
+    </Setting>
+    <Setting Name="PLC_IP_2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">168</Value>
+    </Setting>
+    <Setting Name="PLC_IP_3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PLC_IP_4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="PLC_Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M1_Active" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M2_Active" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M3_Active" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PC_id" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterNormalOnly" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterNormal" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterEtalonOnly" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterEtalon" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterOilOnly" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MeasurementCounterOil" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="OpPrinter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EOL_Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="darabSzamlaloMegfelelo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="darabSzamlaloSelejt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SaveFolderBrowser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2020.11.30</Value>
+    </Setting>
+    <Setting Name="SaveFinish" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2020.11.30</Value>
+    </Setting>
+    <Setting Name="KIONPartNumber_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StabilPartNumber_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="KIONPartNumber_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StabilPartNumber_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="KIONPartNumber_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StabilPartNumber_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OpMeasOpt_M1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-01-01</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-01-01</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M3" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-01-01</Value>
+    </Setting>
+    <Setting Name="OpMeasOpt_M_Last" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-01-01</Value>
+    </Setting>
+    <Setting Name="SearchSerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Type1Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tipus 1</Value>
+    </Setting>
+    <Setting Name="Type2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tipus 2</Value>
+    </Setting>
+    <Setting Name="Type3Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tipus 3</Value>
+    </Setting>
+    <Setting Name="FirstStartRecalibration" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TypeIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CimkeYearDay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JJJYY</Value>
+    </Setting>
+    <Setting Name="CimkeStabilPartNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STABIL 792900</Value>
+    </Setting>
+    <Setting Name="CimkexyPartNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25.3040.45.0600.0A</Value>
+    </Setting>
+    <Setting Name="CimkeQR_xyPartNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">530404506000A</Value>
+    </Setting>
+    <Setting Name="CimkeQR_SerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456789</Value>
+    </Setting>
+    <Setting Name="CimkeQR_YYYYMMDD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20210719</Value>
+    </Setting>
+    <Setting Name="CimkeHibasSerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SerialNumber</Value>
+    </Setting>
+    <Setting Name="CimkeHibasDatum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Datum</Value>
+    </Setting>
+    <Setting Name="CimkeHibasHiba" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hibamegnevezes</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

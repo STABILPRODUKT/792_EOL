@@ -1,0 +1,127 @@
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\S7.Net.dll
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+D:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+E:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+E:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+E:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\S7.Net.dll
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+E:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+F:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+F:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+F:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+F:\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\S7.Net.dll
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+F:\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\S7.Net.dll
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+D:\program\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\bin\Debug\S7.Net.dll
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL tesztelő állomás\Szoftver\PC\EOL_tesztelo\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\bin\Debug\S7.Net.dll
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\bin\Debug\S7.Net.dll
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_729\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csprojAssemblyReference.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\bin\Debug\S7.Net.dll
+E:\Projektek\Stabil Produkt Kft\Pécel\EOL 792 tesztelő állomás\Szoftver\PC\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+C:\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe.config
+C:\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.exe
+C:\c#\EOL_792\EOL_tesztelo\bin\Debug\EOL_tesztelo.pdb
+C:\c#\EOL_792\EOL_tesztelo\bin\Debug\S7.Net.dll
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.AssemblyReference.cache
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.Form1.resources
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.FormEtalonProperty.resources
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.Properties.Resources.resources
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.SaveForm.resources
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.GenerateResource.cache
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CoreCompileInputs.cache
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.CopyComplete
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.exe
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.pdb
+C:\c#\EOL_792\EOL_tesztelo\obj\Debug\EOL_tesztelo.csproj.SuggestedBindingRedirects.cache
